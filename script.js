@@ -44,7 +44,7 @@ particlesJS('fireworks', {
         line_linked: {
             enable: true,
             distance: 150,
-            color: '#ec5f05',
+            color: '#a00606',
             opacity: 0.4,
             width: 1
         },
